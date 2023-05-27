@@ -1,1 +1,1 @@
-# Information-Retrieval-from-Cranfield-Dataset
+# Information Retrieval from Cranfield Dataset
